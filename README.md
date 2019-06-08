@@ -5,6 +5,6 @@ I'm No One
 
 Security Analyst
 
-Support customer at EnCo
+Support Customer at EnCo
 
 Live in Rangnam
