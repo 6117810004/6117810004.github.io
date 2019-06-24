@@ -1,1 +1,1 @@
-การทำ Two Factor Authentication ของ Apple ID
+Two Factor Authentication for Apple ID
