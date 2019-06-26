@@ -13,3 +13,7 @@
   *	เป็นรหัสชั่วคราวที่จะส่งไปยังอุปกรณ์หรือหมายเลขโทรศัพท์ เมื่อทำการ Login เข้าใช้ Apple ID บนอุปกรณ์หรือ Browsers ใหม่
 
 **ตัวอย่างขั้นตอนในการ Login ICloud**
+
+![GitHub Logo](pic/Apple2.PNG)
+
+![GitHub Logo](pic/Apple3.PNG)
