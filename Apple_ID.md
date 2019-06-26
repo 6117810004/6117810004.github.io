@@ -1,6 +1,6 @@
 ![GitHub Logo](pic/Apple1.PNG)
 
-    Two-Factor Authentication หรือ ระบบการยืนยันตัวตนแบบสองชั้น
+  * Two-Factor Authentication หรือ ระบบการยืนยันตัวตนแบบสองชั้น
 
 **Trusted Devices**
 
