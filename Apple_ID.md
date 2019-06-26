@@ -17,3 +17,13 @@
 ![GitHub Logo](pic/Apple2.PNG)
 
 ![GitHub Logo](pic/Apple3.PNG)
+
+![GitHub Logo](pic/Apple4.jpg)
+
+![GitHub Logo](pic/Apple5.jpg)
+
+![GitHub Logo](pic/Apple6.PNG)
+
+![GitHub Logo](pic/Apple7.PNG)
+
+![GitHub Logo](pic/Apple8.PNG)
