@@ -8,6 +8,6 @@ Support Customer at EnCo
 
 Live in Rangnam
 
-Line : FALAMP
+Line : F-L--P
 
 ![GitHub Logo](pic/pic.jpg)
